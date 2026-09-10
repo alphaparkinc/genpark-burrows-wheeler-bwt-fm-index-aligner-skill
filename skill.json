@@ -1,0 +1,17 @@
+{
+  "name": "genpark-burrows-wheeler-bwt-fm-index-aligner-skill",
+  "version": "1.0.0",
+  "description": "Burrows-Wheeler Transform (BWT) and FM-Index exact string matching engine with Ferragina-Manzini LF-mapping for genomic read alignment.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bwt",
+    "fm-index",
+    "burrows-wheeler",
+    "genomic-indexing",
+    "read-alignment"
+  ],
+  "dependencies": []
+}
